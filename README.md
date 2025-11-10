@@ -1,4 +1,6 @@
 ◎ 1000 Small Futures
+<img width="3227" height="1432" alt="image" src="https://github.com/user-attachments/assets/acd1c6d8-8e29-494e-9551-bbf1504994d0" />
+
 
 > **Tagline:** *Tools for thinking about media, narrative, belief, and culture*
 
