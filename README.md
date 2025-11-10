@@ -4,6 +4,9 @@
 
 > **Tagline:** *Tools for thinking about media, narrative, belief, and culture*
 
+DEMO: https://hartswf0.github.io/1000-small-futures/
+
+
 **LEGOS Framework** (Legible Emergent Generative Ontological Systems) — A collection of 14 computational engines for systematic exploration, spatial reasoning, and temporal memory. Built as **anti-tools**: single-file HTML artifacts that expose their operations, invite modification, and resist extraction.
 
 **What makes it different**: Natural language becomes spatial structure. One perspective becomes four. Linear chat becomes navigable timeline.
